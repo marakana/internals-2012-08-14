@@ -1,6 +1,6 @@
 = Android Internals
 
-23 July 2012
+14 August 2012
 
 *Ken Jones*, <ken@marakana.com>
 http://marakana.com[Marakana, Inc.]
